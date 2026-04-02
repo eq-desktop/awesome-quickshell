@@ -51,7 +51,7 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 > An Axtremely customizable shell
 <img src="./assets/Ambxst.png" width="500">
 
-### [caelestia-shell](https://github.com/caelestia-dots/shell)
+### [Caelestia](https://github.com/caelestia-dots/shell)
 `hyprland` `material` `user-friendly`
 > A polished, modular desktop shell for Hyprland with a material-inspired aesthetic.
 <img src="./assets/caelestia-shell.jpg" width="500">
@@ -66,7 +66,7 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 > A modern desktop shell for Wayland
 <img src="./assets/DankMaterialShell.png" width="500">
 
-### [illogical-impulse](https://github.com/end-4/dots-hyprland)
+### [Illogical Impulse](https://github.com/end-4/dots-hyprland)
 `hyprland` `material` `customizable` `AI` `heavy` `user-friendly`
 > Usability-first dotfiles with a corporate-ish-level cleanliness
 <img src="./assets/illogical-impulse.png" width="500">
