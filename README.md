@@ -54,7 +54,13 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 ### [Caelestia](https://github.com/caelestia-dots/shell)
 `hyprland` `material` `user-friendly`
 > A polished, modular desktop shell for Hyprland with a material-inspired aesthetic.
-<img src="./assets/caelestia-shell.png" width="500">
+>    <img src="./assets/caelestia-shell.png" width="500">
+>    <table>
+>    <tr>
+>        <td><img src="./assets/caelestia-shell.png" width="250"></td>
+>        <td><img src="./assets/caelestia-shell-dark.png" width="250"><td>
+>    </tr>
+>    </table>
 
 ### [ChromeX](https://github.com/catdeal3r/chromex)
 `niri` `material`
