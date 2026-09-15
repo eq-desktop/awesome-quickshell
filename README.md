@@ -82,6 +82,11 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 <img src="./assets/noctalia.png" width="500">
 
+### [Quay](https://github.com/lunanoir21/quickshell-quay)
+`hyprland` `sway` `niri` `unique` `customizable`
+> A vertical, home-screen-style app launcher module — pinned apps, folders and live window previews in one rail. Drops into any Quickshell config with one import.
+<img src="./assets/Quay.png" width="500">
+
 ### [Sleex](https://www.axos-project.com/docs/guides/sleex)
 `hyprland` `AI` `material`
 > The shell of the third desktop environement of AxOS
