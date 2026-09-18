@@ -90,7 +90,10 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 ### [Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel)
 `mangowc` `material`
 > Nixos configuration feat. kurukurubar
-<img src="./assets/Zaphkiel.jpg" width="500">
+### [Caelestia Todo Widget](https://github.com/ziuus/caelestia-todo-widget)
+`hyprland` `material` `unique` `lightweight`
+> A polished Catppuccin desktop Todo & Google Calendar widget with swipe gestures and layer-shell integration.
+<img src="./assets/caelestia-todo-widget.gif" width="500">
 
 ## Contributing
 Feel free to open a PR to add new shells.
