@@ -46,6 +46,11 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1!
 > Your Polished AIO Hyprland Shell. Built for maximum efficiency and a better workflow
 <img src="./assets/Aureli.png" width="500">
 
+### [Ano Shell](https://github.com/Abdoul273/ano-shell)
+`hyprland` `apple` `material` `unique` `user-friendly`
+> Standalone Liquid Glass desktop environment for Arch Linux & Hyprland with custom GLSL optical refraction, Dynamic Island, Control Center, 3D Earbuds HUD, native Qt6 C++ plugins, and 1-command install.
+<img src="./assets/AnoShell.png" width="500">
+
 ### [Ambxst](https://github.com/Axenide/Ambxst)
 `hyprland` `customizable` `unique`
 > An Axtremely customizable shell
